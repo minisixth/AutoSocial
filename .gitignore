@@ -128,3 +128,4 @@ dmypy.json
 ##############
 #tools(工具包)
 tools/*
+logs/*
